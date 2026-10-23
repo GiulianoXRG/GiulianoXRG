@@ -1,12 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Giuliano%20Carvalho&fontColor=ffffff&fontSize=42&fontAlignY=35" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Estudante+de+Ci%C3%AAncias+Atuariais+%7C+UFRN;Dados%2C+R+e+Python;Automatizando+processos+chatos+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=%F0%9F%8E%93+Ci%C3%AAncias+Atuariais+%40+UFRN;%F0%9F%93%8A+Dados+e+automa%C3%A7%C3%A3o+com+R+e+Python;%F0%9F%93%88+Risco%2C+seguros+e+previd%C3%AAncia" />
 </div>
 
 ## 👨‍💻 Sobre mim
 
 - 📊 Estudante de **Ciências Atuariais** na UFRN
+- 📈 Interesse em **risco, seguros e previdência**
 - 🔬 Iniciação Científica com **microdados do Censo/IBGE**
 - 🏛️ Setor de Execução Orçamentária da UFRN
 - 🎓 Membro Estudante do **IBA** (Instituto Brasileiro de Atuária)
@@ -38,6 +39,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GiulianoXRG&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</div>
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GiulianoXRG/GiulianoXRG/output/github-snake-dark.svg" />
 </div>
 
 ## 📫 Contato
