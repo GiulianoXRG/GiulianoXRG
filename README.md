@@ -18,9 +18,17 @@
 
 | Projeto | Descrição |
 |---|---|
+| [**SIPAC Assistente**](https://github.com/GiulianoXRG/sipac-assistente-portfolio) | Automação do detalhamento de despesas no SIPAC/UFRN: Playwright, FastAPI, regras + Gemini, servidor MCP |
+| [**PCA Assistente**](https://github.com/GiulianoXRG/pca-assistente-portfolio) | Monta a planilha do Plano de Contratações a partir do SIPAC (Google Sheets / .xlsx), com conferências e backup |
 | [**sipac-detalhar-lote**](https://github.com/GiulianoXRG/sipac-detalhar-lote) | Script Tampermonkey que automatiza o detalhamento de despesas em lote no SIPAC |
-| **Iniciação Científica** | Análise de microdados demográficos em R (`censobr`, `arrow`, `dplyr`) |
-| **Mostra de Profissões** | Site interativo sobre expectativa de vida e o trabalho do atuário |
+| [**Tendência da população brasileira**](https://github.com/GiulianoXRG/analise-tendencia-futura-populacao-brasileira) | IC: estrutura etária, migração e mortalidade das 27 UFs e dos 167 municípios do RN (Censo 2022) |
+| [**Projeções populacionais**](https://github.com/GiulianoXRG/analise-projecoes-populacionais-portfolio) | IC: indicadores, pirâmides, mapas e autocorrelação espacial (Moran/LISA) por município |
+| [**Análise demográfica do RN**](https://github.com/GiulianoXRG/analise-demografica-rn-portfolio) | Fecundidade, padronização e tábuas de vida com Censo, SINASC e SIM |
+| [**ML de crédito**](https://github.com/GiulianoXRG/ml-credito-portfolio) | Risco de crédito com regressão logística em tidymodels |
+| [**censobr em poucas linhas**](https://github.com/GiulianoXRG/avaliacao-algoritmos-censobr-portfolio) | Apresentação do pacote censobr: pirâmide etária do RN |
+| [**O Olho**](https://github.com/GiulianoXRG/o-olho-portfolio) | Protótipo de jogo tático de furtividade em Godot 4 (GDScript) |
+| [**Mostra de Profissões**](https://github.com/GiulianoXRG/mostra-profissoes-expectativa-vida) | Site interativo sobre expectativa de vida e o trabalho do atuário |
+| [**Indicadores eleitorais RN 2026**](https://github.com/GiulianoXRG/missao-rn-indicadores) | Mapas e dashboards de votação e custo do voto |
 
 ## 🛠️ Ferramentas
 
