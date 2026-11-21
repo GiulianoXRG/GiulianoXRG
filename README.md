@@ -18,6 +18,7 @@
 
 | Projeto | Descrição |
 |---|---|
+| [**Tábua de mortalidade + Lee-Carter**](https://github.com/GiulianoXRG/tabua-mortalidade-brasil) | Tábuas de vida do Brasil (SIM/DATASUS + IBGE, 2000–2023) e projeção da mortalidade até 2050, com [relatório em Quarto](https://giulianoxrg.github.io/tabua-mortalidade-brasil/) |
 | [**SIPAC Assistente**](https://github.com/GiulianoXRG/sipac-assistente-portfolio) | Automação do detalhamento de despesas no SIPAC/UFRN: Playwright, FastAPI, regras + Gemini, servidor MCP |
 | [**PCA Assistente**](https://github.com/GiulianoXRG/pca-assistente-portfolio) | Monta a planilha do Plano de Contratações a partir do SIPAC (Google Sheets / .xlsx), com conferências e backup |
 | [**sipac-detalhar-lote**](https://github.com/GiulianoXRG/sipac-detalhar-lote) | Script Tampermonkey que automatiza o detalhamento de despesas em lote no SIPAC |
@@ -25,18 +26,20 @@
 | [**Projeções populacionais**](https://github.com/GiulianoXRG/analise-projecoes-populacionais-portfolio) | IC: indicadores, pirâmides, mapas e autocorrelação espacial (Moran/LISA) por município |
 | [**Análise demográfica do RN**](https://github.com/GiulianoXRG/analise-demografica-rn-portfolio) | Fecundidade, padronização e tábuas de vida com Censo, SINASC e SIM |
 | [**ML de crédito**](https://github.com/GiulianoXRG/ml-credito-portfolio) | Risco de crédito com regressão logística em tidymodels |
+| [**Titanic (Kaggle)**](https://github.com/GiulianoXRG/titanic) | Modelo de sobrevivência para o desafio do Titanic, em R |
 | [**censobr em poucas linhas**](https://github.com/GiulianoXRG/avaliacao-algoritmos-censobr-portfolio) | Apresentação do pacote censobr: pirâmide etária do RN |
 | [**O Olho**](https://github.com/GiulianoXRG/o-olho-portfolio) | Protótipo de jogo tático de furtividade em Godot 4 (GDScript) |
+| [**Site do LEPP**](https://github.com/GiulianoXRG/site-lepp) | Página do Laboratório de Estimativas e Projeções Populacionais (PPGDem/UFRN) no WordPress |
 | [**Mostra de Profissões**](https://github.com/GiulianoXRG/mostra-profissoes-expectativa-vida) | Site interativo sobre expectativa de vida e o trabalho do atuário |
 | [**Indicadores eleitorais RN 2026**](https://github.com/GiulianoXRG/missao-rn-indicadores) | Mapas e dashboards de votação e custo do voto |
 
 ## 🛠️ Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=r,python,js,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=r,python,js,html,css,fastapi,godot,wordpress,git,github,vscode&theme=dark" />
 </p>
 
-`lifecontingencies` · `censobr` · `dplyr` · `ggplot2` · `Excel`
+`lifecontingencies` · `censobr` · `tidyverse` · `tidymodels` · `targets` · `renv` · `Quarto` · `Playwright` · `Gemini API` · `MCP` · `Excel`
 
 ## 📈 Estatísticas
 
